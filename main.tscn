@@ -19,3 +19,10 @@ event = {
 }
 trigger_on = 2
 stop_on = 3
+
+[node name="Label" type="Label" parent="."]
+offset_left = 564.0
+offset_top = 258.0
+offset_right = 604.0
+offset_bottom = 281.0
+text = "Test Scene"
