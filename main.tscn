@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://bxvo4go046q8t"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="AkBank" type="AkBank" parent="."]
+bank = {
+"id": 3161908922,
+"name": "Main"
+}
+load_on = 1
+unload_on = 3
+
+[node name="AkListener2D" type="AkListener2D" parent="."]
+
+[node name="AkEvent2D" type="AkEvent2D" parent="."]
+event = {
+"id": 1879833053,
+"name": "BattleMusic1"
+}
+trigger_on = 2
+stop_on = 3

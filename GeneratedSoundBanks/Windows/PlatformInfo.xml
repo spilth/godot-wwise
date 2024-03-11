@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlatformInfo>
+	<Platform Name="Windows" BasePlatform="Windows" Generator="2023.1.1.8417"/>
+	<RootPaths>
+		<ProjectRoot>../../../../Music/Wwise/Game Jams/Godot Wild Jam 67</ProjectRoot>
+		<SourceFilesRoot>../../../../Music/Wwise/Game Jams/Godot Wild Jam 67/.cache/Windows</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>../../../../Music/Wwise/Game Jams/Godot Wild Jam 67/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DefaultAlign>16</DefaultAlign>
+	<Settings>
+		<AutoSoundBankDefinition>false</AutoSoundBankDefinition>
+		<CopyLooseStreamedMediaFiles>true</CopyLooseStreamedMediaFiles>
+		<SubFoldersForGeneratedFiles>false</SubFoldersForGeneratedFiles>
+		<RemoveUnusedGeneratedFiles>true</RemoveUnusedGeneratedFiles>
+		<SourceControlGeneratedFiles>false</SourceControlGeneratedFiles>
+		<GenerateHeaderFile>false</GenerateHeaderFile>
+		<GenerateContentTxtFile>true</GenerateContentTxtFile>
+		<GenerateMetadataXML>true</GenerateMetadataXML>
+		<GenerateMetadataJSON>false</GenerateMetadataJSON>
+		<GenerateAllBanksMetadata>true</GenerateAllBanksMetadata>
+		<GeneratePerBankMetadata>false</GeneratePerBankMetadata>
+		<UseSoundBankNames>true</UseSoundBankNames>
+		<AllowExceedingMaxSize>false</AllowExceedingMaxSize>
+		<MaxAttenuationInfo>false</MaxAttenuationInfo>
+		<EstimatedDurationInfo>false</EstimatedDurationInfo>
+		<PrintObjectGuid>false</PrintObjectGuid>
+		<PrintObjectPath>false</PrintObjectPath>
+	</Settings>
+	<FileHash>{A1F8FD87-992E-A88C-BA69-CF8513DAF82E}</FileHash>
+</PlatformInfo>

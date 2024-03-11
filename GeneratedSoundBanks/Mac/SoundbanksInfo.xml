@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../../../../Music/Wwise/Game Jams/Godot Wild Jam 67</ProjectRoot>
+		<SourceFilesRoot>../../../../Music/Wwise/Game Jams/Godot Wild Jam 67/.cache/Mac</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>../../../../Music/Wwise/Game Jams/Godot Wild Jam 67/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{D326F752-7CA2-0A14-FDB1-63ECE89D0199}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+		</SoundBank>
+		<SoundBank Id="3161908922" Type="User" Language="SFX" Hash="{ABEF1DD8-D341-8B8F-B22E-FFC5C0F48A10}">
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<Media>
+				<File Id="60589103" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 B\Battle Music 1 - BPM106 - B - Pulses.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 B/Battle Music 1 - BPM106 - B - Pulses_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="64440834" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 C\Battle Music 1 - BPM106 - C - Dark Glide Bass.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 C/Battle Music 1 - BPM106 - C - Dark Glide Bass_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="132879010" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 C\Battle Music 1 - BPM106 - C - Lead.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 C/Battle Music 1 - BPM106 - C - Lead_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="150527022" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 A\Battle Music 1 - BPM106 - A - Drums.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 A/Battle Music 1 - BPM106 - A - Drums_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="251006930" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 C\Battle Music 1 - BPM106 - C - Drums.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 C/Battle Music 1 - BPM106 - C - Drums_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="360445074" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 B\Battle Music 1 - BPM106 - B - Dark Glide Bass.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 B/Battle Music 1 - BPM106 - B - Dark Glide Bass_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="368105483" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 A\Battle Music 1 - BPM106 - A - Dark Glide Bass.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 A/Battle Music 1 - BPM106 - A - Dark Glide Bass_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="373166211" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 A\Battle Music 1 - BPM106 - A - Arp.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 A/Battle Music 1 - BPM106 - A - Arp_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="412057076" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 B\Battle Music 1 - BPM106 - B - Trills.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 B/Battle Music 1 - BPM106 - B - Trills_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="457707367" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 C\Battle Music 1 - BPM106 - C - Arp.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 C/Battle Music 1 - BPM106 - C - Arp_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="479039764" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 A\Battle Music 1 - BPM106 - A - Pulses.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 A/Battle Music 1 - BPM106 - A - Pulses_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="531003105" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 B\Battle Music 1 - BPM106 - B - Lead.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 B/Battle Music 1 - BPM106 - B - Lead_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="532561443" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 B\Battle Music 1 - BPM106 - B - Arp.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 B/Battle Music 1 - BPM106 - B - Arp_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="546244339" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 B\Battle Music 1 - BPM106 - B - Bass.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 B/Battle Music 1 - BPM106 - B - Bass_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="622383516" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 A\Battle Music 1 - BPM106 - A - Lead.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 A/Battle Music 1 - BPM106 - A - Lead_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="625116685" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 B\Battle Music 1 - BPM106 - B - Drums.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 B/Battle Music 1 - BPM106 - B - Drums_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="626284106" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 A\Battle Music 1 - BPM106 - A - Trills.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 A/Battle Music 1 - BPM106 - A - Trills_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="679655242" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 A\Battle Music 1 - BPM106 - A - Bass.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 A/Battle Music 1 - BPM106 - A - Bass_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="803157632" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 C\Battle Music 1 - BPM106 - C - Trills.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 C/Battle Music 1 - BPM106 - C - Trills_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="976463677" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 C\Battle Music 1 - BPM106 - C - Bass.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 C/Battle Music 1 - BPM106 - C - Bass_FBC78EF0.wem</CachePath>
+				</File>
+				<File Id="1022137328" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Battle Music 1 C\Battle Music 1 - BPM106 - C - Pulses.wav</ShortName>
+					<CachePath>SFX/Battle Music 1 C/Battle Music 1 - BPM106 - C - Pulses_FBC78EF0.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1879833053" Name="BattleMusic1">
+					<MediaRefs>
+						<MediaRef Id="60589103"/>
+						<MediaRef Id="64440834"/>
+						<MediaRef Id="132879010"/>
+						<MediaRef Id="150527022"/>
+						<MediaRef Id="251006930"/>
+						<MediaRef Id="360445074"/>
+						<MediaRef Id="368105483"/>
+						<MediaRef Id="373166211"/>
+						<MediaRef Id="412057076"/>
+						<MediaRef Id="457707367"/>
+						<MediaRef Id="479039764"/>
+						<MediaRef Id="531003105"/>
+						<MediaRef Id="532561443"/>
+						<MediaRef Id="546244339"/>
+						<MediaRef Id="622383516"/>
+						<MediaRef Id="625116685"/>
+						<MediaRef Id="626284106"/>
+						<MediaRef Id="679655242"/>
+						<MediaRef Id="803157632"/>
+						<MediaRef Id="976463677"/>
+						<MediaRef Id="1022137328"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{20140A90-1933-3F87-41BB-82333E157118}</FileHash>
+</SoundBanksInfo>
